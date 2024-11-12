@@ -96,16 +96,16 @@
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
-## Participant in
+<h2>Participant in</h2>
 <div align="center">
   <table>
     <thead align="center">
-      <tr border: none;>
+      <tr style="border: none;">
         <td><a href="https://gssoc.girlscript.tech"><img src="https://github.com/user-attachments/assets/4382cf2c-7cfe-4aaf-9a01-5c26b163fef5" alt="GSSOC-2024"></a></td>
       </tr>
     </thead>
     <tbody align="center">
-      <tr border: none;>
+      <tr style="border: none;">
         <td><b>GSSOC'24</b></td>
       </tr>
     </tbody>
@@ -128,3 +128,4 @@
 
 
 <h2 align="center">Thank You for Visiting and Supporting 🫶</h2>
+<p align="right"><a href="#top">Back to TOP 🔝 </a></p>
