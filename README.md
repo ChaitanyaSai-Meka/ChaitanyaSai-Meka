@@ -2,7 +2,6 @@
 <p align="center">
   <img src="./assets/readme.gif" alt="Banner" width="100%" />
 </p>
----
 <!-- Introduction -->
 <h1 align="center"> Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://www.linkedin.com/in/chaitanya-sai-meka/" target="_blank">Chaitanya Sai Meka</a></h1>
 
@@ -32,17 +31,20 @@
 <!-- Separator Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<!-- Live Image -->
-<img align='right' src="https://www.behance.net/gallery/99786133/Mastermind/modules/575837231" width="400" height="350" />
-
 <!-- About Me Section -->
 <h1><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45"> About Me</h1> 
 
-- 👋 Hi there! I'm a second-year BTech student pursuing Computer Science and Engineering with a focus on Artificial Intelligence. I'm passionate about problem-solving and innovation, and I'm always looking for ways to deepen my understanding of technology and improve my skills.
-- 💻 As a Frontend Developer, I specialize in building intuitive and engaging user interfaces. I enjoy creating responsive, aesthetically pleasing, and functional web applications that offer a seamless user experience.
-- 🔍 Currently, I'm diving into Data Structures and Algorithms (DSA) with Python to enhance my problem-solving abilities and prepare for coding challenges.
-- 🌐 Along with my frontend development work, I have a keen interest in cybersecurity and network analysis.
-- 📫 Reach me at: chaitanyam141@gmail.com
+- 🎓 I'm a 2nd-year CSE–AI undergrad driven by a passion for building products that solve real-world problems.
+
+- 💼 Currently working as a freelance developer, delivering full-cycle web and mobile solutions for startups and  clients.
+
+- 🚀 I'm not just learning to code — I'm learning to build, ship, and scale ideas into impact.
+
+- 🧠 Deeply focused on mastering systems thinking, problem-solving, and the fundamentals that power great software and great companies.
+
+- 🌱 Long-term goal: to become a tech entrepreneur who creates tools that improve how people live and work.
+
+- 🌐 Explore my journey: (https://chaitanya-sai-meka.vercel.app/)[Portfolio]
 
 ## 🧰 Tech Stack
 
