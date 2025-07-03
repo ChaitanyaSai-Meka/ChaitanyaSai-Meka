@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=CSE-AI'24+Undergrad;Web+Developer;Open-Source+Contributor;Aspiring+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=CSE-AI'24+Undergrad;Freelance+Full-Stack+Developer;Product+Builder+%26+Open-Source+Contributor;Future+Founder+%7C+Tech+Entrepreneur)](https://git.io/typing-svg)
 
 </div>
 
@@ -45,6 +45,7 @@
 - 🌱 Long-term goal: to become a tech entrepreneur who creates tools that improve how people live and work.
 
 - 🌐 Explore my journey: [**Portfolio**](https://chaitanya-sai-meka.vercel.app/)
+
 
 ## 🧰 Tech Stack
 
