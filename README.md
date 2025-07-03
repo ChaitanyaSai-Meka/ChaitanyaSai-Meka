@@ -44,7 +44,7 @@
 
 - 🌱 Long-term goal: to become a tech entrepreneur who creates tools that improve how people live and work.
 
-- 🌐 Explore my journey: (https://chaitanya-sai-meka.vercel.app/)[Portfolio]
+- 🌐 Explore my journey: [**Portfolio**](https://chaitanya-sai-meka.vercel.app/)
 
 ## 🧰 Tech Stack
 
