@@ -1,6 +1,6 @@
 <!-- Full-width Top Banner GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2d/60/fb/2d60fbfdaf7d4a71cf996c8ecf5c7461.gif" alt="Banner" width="100%" />
+  <img src="https://www.behance.net/gallery/99786133/Mastermind/modules/575837231" alt="Banner" width="100%" />
 </p>
 
 <!-- Introduction -->
