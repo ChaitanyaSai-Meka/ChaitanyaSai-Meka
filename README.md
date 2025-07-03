@@ -112,6 +112,5 @@
 
 ---
 
-## 🙏 Thank You!
-<h3 align="center">Thanks for stopping by 💜</h3>
+<h3 align="center">Thanks for stopping by 🫶</h3>
 <p align="right"><a href="#top">🔝 Back to Top</a></p>
