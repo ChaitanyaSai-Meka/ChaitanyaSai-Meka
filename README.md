@@ -1,3 +1,9 @@
+<!-- Full-width Top Banner GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2d/60/fb/2d60fbfdaf7d4a71cf996c8ecf5c7461.gif" alt="Banner" width="100%" />
+</p>
+
+<!-- Introduction -->
 <h1 align="center"> Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://www.linkedin.com/in/chaitanya-sai-meka/" target="_blank">Chaitanya Sai Meka</a></h1>
 
 <div align="center">
@@ -12,32 +18,30 @@
 <a href="https://x.com/IAMCHAITANYASAI" target="blank"><img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60" /></a>
 <a href="https://www.linkedin.com/in/chaitanya-sai-meka/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
 <a href="https://www.instagram.com/chaitanyasai_meka/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" /></a>
-<a href="https://www.hackerrank.com/profile/marvelchaitanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Chaitanya Sai Meka" height="45" width="50" /></a>
+<a href="https://www.hackerrank.com/profile/marvelchaitanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="45" width="50" /></a>
 <br><br>
 <a href="https://leetcode.com/u/chaitanyasai_meka/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" height="40" alt="LeetCode Badge"/></a>
 </p>
 
-
-<!-- Live Viewer Count -->
+<!-- Profile Views -->
 <p align="center"> 
    <img src="https://komarev.com/ghpvc/?username=ChaitanyaSai-Meka&style=for-the-badge" alt="ChaitanyaSai-Meka's Profile Views" />
 </p>
 
-<!-- Flowing Line -->
+<!-- Separator Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 
 <!-- Live Image -->
 <img align='right' src="https://www.behance.net/gallery/99786133/Mastermind/modules/575837231" width="400" height="350" />
 
-<!-- About Me -->
+<!-- About Me Section -->
 <h1><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45"> About Me</h1> 
 
-- 👋 Hi there! I'm a first-year BTech student pursuing Computer Science and Engineering with a focus on Artificial Intelligence. I'm passionate about problem-solving and innovation, and I'm always looking for ways to deepen my understanding of technology and improve my skills.
+- 👋 Hi there! I'm a second-year BTech student pursuing Computer Science and Engineering with a focus on Artificial Intelligence. I'm passionate about problem-solving and innovation, and I'm always looking for ways to deepen my understanding of technology and improve my skills.
 - 💻 As a Frontend Developer, I specialize in building intuitive and engaging user interfaces. I enjoy creating responsive, aesthetically pleasing, and functional web applications that offer a seamless user experience.
 - 🔍 Currently, I'm diving into Data Structures and Algorithms (DSA) with Python to enhance my problem-solving abilities and prepare for coding challenges.
-- 🌐 Along with my frontend development work, I have a keen interest in cybersecurity and network analysis. I'm constantly exploring ways to understand and secure networks, and I enjoy learning about the latest security trends and tools.
+- 🌐 Along with my frontend development work, I have a keen interest in cybersecurity and network analysis.
 - 📫 Reach me at: chaitanyam141@gmail.com
 
 ## 🧰 Tech Stack
@@ -46,36 +50,33 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nodejs,express,mongodb,threejs,firebase,tailwind,postman,figma,blender,git,github" />
 </p>
 
-<!-- End Line -->
+<!-- Separator Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<!-- Github Stats -->
+<!-- GitHub Stats Section -->
 <h1 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Statistics </h1>
-
 
 <a href="https://github.com/ChaitanyaSai-Meka/github-readme-stats">
     <img width=100% src="https://github-profile-trophy.vercel.app/?username=ChaitanyaSai-Meka&theme=radical&no-frame=true&no-bg=true&margin-w=4">
 </a>
-
-
 
 <a href="https://github.com/ChaitanyaSai-Meka/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaSai-Meka&theme=bear&show_icons=true&hide_border=true&count_private=true" width="50%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaSai-Meka&theme=bear&hide_border=true" width="45%"/>
 </a>
 <br><br>
-<!-- Progress Graph -->
+
+<!-- Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaSai-Meka&theme=synthwave-84&true&hide_border=true" />
-  </div>
-
+</div>
 <br>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg) 
+<!-- Top Languages -->
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaSai-Meka&layout=compact&theme=highcontrast" alt="Top Languages" />
 <br><br><br>
 
-<!-- Statistics Segment -->
+<!-- GitHub Summary Cards -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
 
@@ -87,9 +88,9 @@
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaitanyaSai-Meka&theme=highcontrast" height="180em" />
     </a>
 </div>
-
 <br>
 
+<!-- Participation -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 <h2>Participant in</h2>
 <div align="center">
@@ -107,7 +108,6 @@
   </table>
 </div>
 
-
 ## GSSOC'24 Badges
 <table align="center">
   <tr>
@@ -120,7 +120,6 @@
   </tr>
 </table>
 
-
-
 <h2 align="center">Thank You for Visiting and Supporting 🫶</h2>
 <p align="right"><a href="#top">Back to TOP 🔝 </a></p>
+
