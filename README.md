@@ -26,6 +26,10 @@
   <a href="https://leetcode.com/u/chaitanyasai_meka/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" height="40" alt="LeetCode Badge"/>
   </a>
+  <br><br>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChaitanyaSai-Meka&style=for-the-badge" alt="Profile Views" />
+  </p>
 </div>
 
 ---
@@ -105,12 +109,6 @@
     <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90" height="90" /></td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChaitanyaSai-Meka&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ---
 
