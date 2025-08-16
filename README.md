@@ -10,7 +10,7 @@
 <div align="center">
   <br>
   <a href="https://chaitanya-sai-meka.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=42F9F9&center=true&vCenter=true&width=900&lines=CSE-AI'24+Undergrad;Freelance+Full-Stack+Developer;Product+Builder+%26+Open-Source+Contributor;Future+Founder+%7C+Tech+Entrepreneur" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=42F9F9&center=true&vCenter=true&width=900&lines=CSE-AI'28+Undergrad;Freelance+Full-Stack+Developer;Product+Builder+%26+Open-Source+Contributor;Future+Founder+%7C+Tech+Entrepreneur" alt="Typing SVG" />
   </a>
 </div>
 
