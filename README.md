@@ -56,7 +56,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaSai-Meka&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaSai-Meka&theme=synthwave&show_icons=true&hide_border=true&count_private=true" width="49%"/>
+  <img src="https://github-stats-extended-frontend-six-iota.vercel.app/api?username=ChaitanyaSai-Meka&theme=synthwave&show_icons=true&hide_border=true&count_private=true" width="49%"/>
   <img src="https://streak-stats.demolab.com/?user=ChaitanyaSai-Meka&theme=synthwave&hide_border=true" width="49%"/>
 </div>
 
@@ -70,20 +70,7 @@
 ---
 
 ##  Language Usage
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaSai-Meka&layout=compact&theme=highcontrast" />
-
----
-
-##  Participant In
-
-<div align="center">
-  <a href="https://gssoc.girlscript.tech">
-    <img src="https://github.com/user-attachments/assets/4382cf2c-7cfe-4aaf-9a01-5c26b163fef5" width="200" alt="GSSOC-2024 Badge"/>
-  </a>
-  <p><strong>GSSOC'24 Contributor</strong></p>
-  <br>
-  <img src="https://img.shields.io/badge/Postman-GSSOC'24_Challenge_Completed-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Challenge Badge"/>
-</div>
+<img align="center" height="180em" src="https://github-stats-extended-frontend-six-iota.vercel.app/api/top-langs/?username=ChaitanyaSai-Meka&layout=compact&theme=highcontrast" />
 
 ---
 
