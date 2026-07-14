@@ -57,7 +57,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaSai-Meka&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaSai-Meka&theme=synthwave&show_icons=true&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaSai-Meka&theme=synthwave&hide_border=true" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=ChaitanyaSai-Meka&theme=synthwave&hide_border=true" width="49%"/>
 </div>
 
 ---
@@ -74,17 +74,6 @@
 
 ---
 
-##  More GitHub Insights
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaitanyaSai-Meka&theme=highcontrast" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaitanyaSai-Meka&theme=highcontrast" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChaitanyaSai-Meka&theme=highcontrast" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaitanyaSai-Meka&theme=highcontrast" height="150" />
-</div>
-
----
-
 ##  Participant In
 
 <div align="center">
@@ -92,22 +81,9 @@
     <img src="https://github.com/user-attachments/assets/4382cf2c-7cfe-4aaf-9a01-5c26b163fef5" width="200" alt="GSSOC-2024 Badge"/>
   </a>
   <p><strong>GSSOC'24 Contributor</strong></p>
+  <br>
+  <img src="https://img.shields.io/badge/Postman-GSSOC'24_Challenge_Completed-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Challenge Badge"/>
 </div>
-
----
-
-##  GSSOC'24 Postman Challenge Badges
-
-<table align="center">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90" height="90" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90" height="90" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90" height="90" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90" height="90" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90" height="90" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90" height="90" /></td>
-  </tr>
-</table>
 
 ---
 
