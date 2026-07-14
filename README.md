@@ -56,7 +56,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaSai-Meka&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
   <br><br>
-  <img src="https://github-stats-extended-frontend-six-iota.vercel.app/api?username=ChaitanyaSai-Meka&theme=synthwave&show_icons=true&hide_border=true&count_private=true" width="49%"/>
+  <img src="https://github-stats-extended-eta.vercel.app/api?username=ChaitanyaSai-Meka&theme=synthwave&show_icons=true&hide_border=true&count_private=true" width="49%"/>
   <img src="https://streak-stats.demolab.com/?user=ChaitanyaSai-Meka&theme=synthwave&hide_border=true" width="49%"/>
 </div>
 
@@ -70,7 +70,7 @@
 ---
 
 ##  Language Usage
-<img align="center" height="180em" src="https://github-stats-extended-frontend-six-iota.vercel.app/api/top-langs/?username=ChaitanyaSai-Meka&layout=compact&theme=highcontrast" />
+<img align="center" height="180em" src="https://github-stats-extended-eta.vercel.app/api?username=ChaitanyaSai-Meka&layout=compact&theme=highcontrast" />
 
 ---
 
